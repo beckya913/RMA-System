@@ -20,7 +20,7 @@ redirect('authorize/login/','refresh');
 <!DOCTYPE html>
 <html>
 <head>
-	<title>RMA:::新增申請表</title>
+	<title>RMA:::新增申請表 Test</title>
 	<!-- install UIKit powered by Yootheme -->
 	<link rel="stylesheet" href="<?php echo base_url(); ?>css/uikit.css" />
 	<link rel="stylesheet" href="<?php echo base_url(); ?>css/custom.css" />
